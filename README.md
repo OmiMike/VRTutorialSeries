@@ -21,7 +21,8 @@ Anyone from Beginners to Advanced Unity Developers
 
 ## SOCIAL MEDIA
 * [Twitter](https://twitter.com/fsStudiosUS)
-* [YouTube](https://youtube.com/c/fsStudiosUS)
+* [YouTube](https://www.youtube.com/c/FinalStandStudios)
+* [Website](https://finalstandstudios.com)
 
 ## DESCRIPTION
 
